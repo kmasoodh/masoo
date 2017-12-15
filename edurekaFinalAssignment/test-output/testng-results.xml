@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Final Assignment" duration-ms="40408" started-at="2017-12-15T16:14:54Z" finished-at="2017-12-15T16:15:35Z">
+    <groups>
+    </groups>
+    <test name="Mercury Tours Ticket Booking" duration-ms="40408" started-at="2017-12-15T16:14:54Z" finished-at="2017-12-15T16:15:35Z">
+      <class name="finalAssignment.TC1_bookReturnTicket">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="beforeSuite" is-config="true" duration-ms="23" started-at="2017-12-15T21:44:54Z" finished-at="2017-12-15T21:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2017-12-15T21:44:54Z" finished-at="2017-12-15T21:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-12-15T21:44:55Z" finished-at="2017-12-15T21:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="beforeTest" is-config="true" duration-ms="4" started-at="2017-12-15T21:44:55Z" finished-at="2017-12-15T21:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-12-15T21:44:55Z" finished-at="2017-12-15T21:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-15T21:44:55Z" finished-at="2017-12-15T21:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="bookTicket()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="bookTicket" duration-ms="31807" started-at="2017-12-15T21:44:55Z" finished-at="2017-12-15T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicket -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-12-15T21:45:26Z" finished-at="2017-12-15T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-12-15T21:45:26Z" finished-at="2017-12-15T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="afterTest" is-config="true" duration-ms="666" started-at="2017-12-15T21:45:33Z" finished-at="2017-12-15T21:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="close" is-config="true" duration-ms="668" started-at="2017-12-15T21:45:34Z" finished-at="2017-12-15T21:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="tearDown" is-config="true" duration-ms="10362" started-at="2017-12-15T21:45:35Z" finished-at="2017-12-15T21:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:finalAssignment.TC1_bookReturnTicket@4a8355dd]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-12-15T21:45:35Z" finished-at="2017-12-15T21:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- finalAssignment.TC1_bookReturnTicket -->
+      <class name="finalAssignment.TC2_validateCredentials">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-12-15T21:45:26Z" finished-at="2017-12-15T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="validateCredntials()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="validateCredntials" duration-ms="6933" started-at="2017-12-15T21:45:26Z" finished-at="2017-12-15T21:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCredntials -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-15T21:45:26Z" finished-at="2017-12-15T21:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-15T21:45:33Z" finished-at="2017-12-15T21:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:finalAssignment.TC2_validateCredentials@4d0d9fe7]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-12-15T21:45:33Z" finished-at="2017-12-15T21:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- finalAssignment.TC2_validateCredentials -->
+    </test> <!-- Mercury Tours Ticket Booking -->
+  </suite> <!-- Final Assignment -->
+</testng-results>

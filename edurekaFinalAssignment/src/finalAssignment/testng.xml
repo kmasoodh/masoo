@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Final Assignment">
+	<test name="Mercury Tours Ticket Booking">
+		<classes>
+			<class name="finalAssignment.TC1_bookReturnTicket" />
+			<class name="finalAssignment.TC2_validateCredentials" />
+		</classes>
+	</test>
+</suite>

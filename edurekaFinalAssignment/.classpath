@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-anim-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-awt-util-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-bridge-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-css-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-ext-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-extension-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-gvt-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-parser-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-script-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-svg-dom-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-svggen-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-transcoder-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-util-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/batik-xml-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/core-renderer-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/core-renderer-minimal.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/cssparser-0.9.24.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/fop-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/gimap.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/htmlunit-2.28.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/htmlunit-core-js-2.28.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/htmlunit-driver-2.28.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/imap.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jetty-client-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jetty-http-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jetty-io-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jetty-util-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/jetty-xml-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/mailapi.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/neko-htmlunit-2.28.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/org.testng_6.12.0.r201709030044.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/pop3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/selenium-3.8.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/selenium-3.8.1-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/smtp.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/websocket-api-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/websocket-client-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/websocket-common-9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xml-apis-xerces-2.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xmlgraphics-commons-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/All jar files/xmlworker-5.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
